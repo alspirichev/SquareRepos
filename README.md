@@ -6,4 +6,5 @@ You can see the list of the repositories, their commits, and contributors.
 
 * iOS 10.0+
 * Swift 4 (decoding, slicing and more features)
+* Without third party libs
 * Xcode 9
